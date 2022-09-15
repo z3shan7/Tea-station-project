@@ -26,7 +26,7 @@
 ### Links
 
 
-- Live Site URL: [Link to live site](https://elaineleung.github.io/frontendmentor/blogrlandingpage/)
+- Live Site URL: [Link to live site](https://z3shan7.github.io/Tea-station-project/)
 
 ## My process
 
