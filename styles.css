@@ -108,7 +108,8 @@ a {
   right: 0;
   bottom: 0;
   z-index: 2;
-  backdrop-filter: blur(20px);
+  /* backdrop-filter: blur(20px); */
+  background-color: var(--mainGrey);
   padding-top: 1rem;
   padding-left: 2rem;
   transition: var(--mainTransition);
